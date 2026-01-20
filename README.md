@@ -133,10 +133,10 @@ Retail-Inventory-Sales-Analysis/
 │ └── inventory_analysis.sql
 │
 ├── powerbi/
-│ ├── Inventory_Dashboard.pbix
 │ └── Inventory Health (Executive View).png
-│ └── Pareto Analysis
-│ └──  Store & Demand Performance
+│ └── Pareto Analysis.png
+│ └──  Retail Inventory & Sales Analysis.pbix
+│ └── Store & Demand Performance.png
 
 ```
 
